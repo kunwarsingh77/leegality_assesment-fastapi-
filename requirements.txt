@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+aiomysql
+cryptography
+alembic
+pydantic-settings
+slowapi
+fastapi-cache2
+jinja2
